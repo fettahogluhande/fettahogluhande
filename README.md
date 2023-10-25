@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hande Fettahoğlu</h1>
-<h3 align="center">A passionate software developer and third year computer engineering student from Turkey</h3>
+<h3 align="center">A passionate software developer and fourth year computer engineering student from Turkey</h3>
 
 - 🔭 I’m currently working on **Personal Projects**
 
